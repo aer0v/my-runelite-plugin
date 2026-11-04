@@ -1,2 +1,3 @@
-# Example
-An example greeter plugin
+# Colosseum Wave Spawn Ping
+
+Plays a sound a set number of game ticks after you click Continue on the Fortis Colosseum wave screen, cueing you to run behind a pillar before the next wave spawns. You can set the tick delay (1–20 ticks), pick from eight built-in game sounds, and adjust the volume separately from your in-game sound settings.
